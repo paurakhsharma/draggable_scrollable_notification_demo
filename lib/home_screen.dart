@@ -38,9 +38,9 @@ class _HomeScreenState extends State<HomeScreen> {
             onNotification: (notification) {
               if (notification.extent == 0.5) {
                 if (lastInMiddle) {
-                  // setState(() {
-                  //   isNoteOpen = false;
-                  // });
+                  setState(() {
+                    isNoteOpen = false;
+                  });
                 } else {
                   lastInMiddle = true;
                 }
