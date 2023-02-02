@@ -1,16 +1,11 @@
 # draggable_scrollable_notification_demo
 
-A new Flutter project.
+Behaviour in Flutter 3.3.9
 
-## Getting Started
+https://user-images.githubusercontent.com/20378877/216324012-799d52ab-7e07-49fa-bfd4-46cd9b22eac9.MOV
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Behaviour in Flutter 3.7.1
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/20378877/216324067-8e695766-dcdc-4a8c-bd12-257cd2f94c43.MOV
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
